@@ -31,9 +31,9 @@ const HomePage = () => {
                <div>
                  <SalesOverview/>
                </div>
-               <div>
+               {/* <div>
                  <SalesOverview/>
-               </div>
+               </div> */}
                    
 
                 
