@@ -1,0 +1,10 @@
+/* .ant-menu {
+    height: 10vh !important;
+} */
+.ant-layout-sider-children ul{
+    height: 100vh !important;
+}
+.ant-menu-item-selected{
+    color: #FF7429 !important;
+    background-color: #ffffff !important;
+}

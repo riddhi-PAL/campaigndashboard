@@ -1,0 +1,68 @@
+.ant-layout-sider-children ul{
+    height: 100vh !important;
+}
+.ant-menu-item-selected{
+    color: #FF7429 !important;
+    background-color: #ffffff !important;
+}
+.main-page{
+    margin-left: 20px; 
+    margin-right: 20px; 
+    font-family: Poppins; 
+    background-color: #f3f2f7;
+}
+.main-heading{
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 45px;
+    letter-spacing: -1.19px;
+    color: #444444;
+}
+ .sub-heading{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #9E9E9E;
+ }
+ .breadcrumb{
+    font-size: 14px;
+    line-height: 21px;
+    font-weight: 400;
+    color: #444444;
+ }
+.cards {
+    height: 82px !important ;
+    border-radius: 15px;
+    padding: 10px 12px 10px 12px;
+    background-color: #ffffff;
+    align-items: center;
+    display: flex; 
+    margin-top: 15px; 
+}
+.icon-bg {
+    background-color: #F2F2F2;
+    width: 38px;
+    padding: 9px;
+    border-radius: 9px; 
+    margin-top: 5px;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+}
+.header p {
+    margin-inline-start: 10px;
+    color: #808080;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 16px; 
+    line-height: 0.3;
+}
+.header span {
+    color: #444444;
+    margin-inline-start: 10px;
+    line-height: 0.3;
+    font-size: 36px;
+    font-weight: 500;    
+}
+
+ 
