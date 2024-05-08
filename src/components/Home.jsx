@@ -28,8 +28,14 @@ const HomePage = () => {
                         ]}
                     /></span></Col>
                 </Row>
-               
-                    <SalesOverview/>
+               <div>
+                 <SalesOverview/>
+               </div>
+               <div>
+                 <SalesOverview/>
+               </div>
+                   
+
                 
 
             </div>
